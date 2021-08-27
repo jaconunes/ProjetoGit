@@ -1,0 +1,1 @@
+Olá, usando este projeto para testar o uso do Git.
